@@ -2,6 +2,43 @@
 <h3 align="center">👨‍💻 Currently working as Senior Flutter Developer at 🛡️ CoverVai IT</h3>
 
 
+<div align="center">
+  <!-- Social Media -->
+  <a href="https://facebook.com/rakiburrahman.official" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/32/000000/facebook.png" alt="Facebook"/>
+  </a>
+  <a href="https://twitter.com/yourprofile" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/32/000000/twitter.png" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/rakibur557" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/rakibur557" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/32/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/rakibur557" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/material-outlined/32/000000/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://youtube.com/rakibur557" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/32/000000/youtube-play.png" alt="YouTube"/>
+  </a>
+
+  <!-- Programming Platforms -->
+  <a href="https://leetcode.com/yourprofile" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="32" height="32"/>
+  </a>
+  <a href="https://codeforces.com/profile/yourprofile" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944793.png" alt="Codeforces" width="32" height="32"/>
+  </a>
+  <a href="https://www.codechef.com/users/rakib557" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/32/000000/codechef.png" alt="CodeChef"/>
+  </a>
+  <a href="https://www.hackerrank.com/yourprofile" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank"/>
+</div>
+
+
+
 
 
 ---
@@ -81,13 +118,30 @@ An ambitious problem solver who is committed to developing skills with a passion
 
 ## 🌍 Languages
 
-🇺🇸 **English**: Fluent in reading, writing, and speaking
-
-🇧🇩 **Bangla**: Native Language
+- **English**: Fluent in reading, writing, and speaking
+- **Bangla**: Native Language
 
 ## 🎯 Interests
 
-I enjoy contributing to open-source projects, public speaking, hosting events, reading, writing, and traveling.
+📂 I enjoy contributing to open-source projects
+
+🎤 Public Speaking
+
+🗓️ Hosting Events
+
+📖 Reading
+
+📝 Writing
+
+✈️ Traveling
+
+## 📈 Most Used Languages & Contributions
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibur557&layout=compact&langs_count=8" alt="Most Used Languages" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibur557" alt="GitHub Streak" height="195" />
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakibur557&theme=radical&no-frame=false&no-bg=true&margin-w=4)
