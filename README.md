@@ -40,35 +40,50 @@ An ambitious problem solver who is committed to developing skills with a passion
 
 ## 🏆 Awards
 
-- **NASA Space Apps Challenge 2023** - Runner-Up (Team Edgefly, Cumilla Region)
-- **NASA Space Apps Challenge 2022** - Global Honorable Mention & Regional Winner (Team Prehim Pro)
-- **NASA Space Apps Challenge 2021** - Champion (Team GreenX, Comilla Region)
-- **bdApps National Hackathon 2022** - Winner & Finalist (Team Edgefly)
-- **DIU CPC IT Carnival 2021** - Champion in Project Showcasing (Team Prehim)
+🚀 **NASA Space Apps Challenge 2023** - Runner-Up (Team Edgefly, Cumilla Region)
+
+🌠 **NASA Space Apps Challenge 2022** - Global Honorable Mention & Regional Winner (Team Prehim Pro)
+
+🛰️ **NASA Space Apps Challenge 2021** - Champion (Team GreenX, Comilla Region)
+
+🤖 **bdApps National Hackathon 2022** - Winner & Finalist (Team Edgefly)
+
+🎉 **DIU CPC IT Carnival 2021** - Champion in Project Showcasing (Team Prehim)
 
 ## 📜 Certifications
 
-1. **International Collegiate Programming Contest (ICPC)** - 2021, 2022
-2. **Galactic Problem Solver** - NASA Space Apps Challenge, 2021, 2022, 2023
-3. **ICT for Sustainable Development Conference** - Bangladesh University of Professionals, 2023
-4. **Young Generation Value and Leadership Thinking** - VAALO, 2023
-5. **Mobile Application & Games Development** - ICT Division (BCIC Training Institute)
-6. **Digital Marketing** - TechBond IT Ltd
-7. **TDP Training-Unarmed** - Bangladesh Ansar & VDP
+⚔️ **International Collegiate Programming Contest (ICPC)** - 2021, 2022
+
+🪐 **Galactic Problem Solver** - NASA Space Apps Challenge, 2021, 2022, 2023
+
+💻 **ICT for Sustainable Development Conference** - Bangladesh University of Professionals, 2023
+
+🌱 **Young Generation Value and Leadership Thinking** - VAALO, 2023
+
+🎮 **Mobile Application & Games Development** - ICT Division (BCIC Training Institute)
+
+📣 **Digital Marketing** - TechBond IT Ltd
+
+👮‍♂️ **TDP Training-Unarmed** - Bangladesh Ansar & VDP
 
 
 ## 🏅 Extra-Curricular Activities
 
-- **President**, DIU Computer & Programming Community, September 2023 - Present
-- **Treasurer**, DIU Computer & Programming Community, April 2022 - April 2023
-- **Convenor**, BASIS Students Forum, March 2023 - Present
-- **Campus Director**, Hult Prize Organization, 2022 - 2023
-- **Event Lead & Host**, DIU Department of CSE, 2022 - 2024
+👑 **President**, DIU Computer & Programming Community, September 2023 - Present
+
+📊 **Treasurer**, DIU Computer & Programming Community, April 2022 - April 2023
+
+🤝 **Convenor**, BASIS Students Forum, March 2023 - Present
+
+🏫 **Campus Director**, Hult Prize Organization, 2022 - 2023
+
+🎤 **Event Lead & Host**, DIU Department of CSE, 2022 - 2024
 
 ## 🌍 Languages
 
-- **English**: Fluent in reading, writing, and speaking
-- **Bangla**: Native Language
+🇺🇸 **English**: Fluent in reading, writing, and speaking
+
+🇧🇩 **Bangla**: Native Language
 
 ## 🎯 Interests
 
