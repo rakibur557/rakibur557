@@ -15,10 +15,10 @@
   </a>
   <a href="https://instagram.com/rakibur557" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/32/000000/instagram-new.png" alt="Instagram"/>
-  </a>
+<!--   </a>
   <a href="https://github.com/rakibur557" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/material-outlined/32/000000/github.png" alt="GitHub"/>
-  </a>
+  </a> -->
   <a href="https://youtube.com/rakibur557" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/32/000000/youtube-play.png" alt="YouTube"/>
   </a>
