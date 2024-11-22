@@ -24,7 +24,7 @@
   </a>
 
   <!-- Programming Platforms -->
-  <a href="https://leetcode.com/yourprofile" target="_blank" style="text-decoration: none;">
+  <a href="https://leetcode.com/profile/rakibur557" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="32" height="32"/>
   </a>
   <a href="https://codeforces.com/profile/yourprofile" target="_blank" style="text-decoration: none;">
