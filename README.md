@@ -38,9 +38,6 @@
 </div>
 
 
-
-
-
 ---
 
 ## 🎯 Objective
@@ -152,11 +149,14 @@ An ambitious problem solver who is committed to developing skills with a passion
 </p>
 
 ---
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
+
+<div align="center">
+<a href="https://wakatime.com/@842d7062-8932-4da3-8562-5f3d1673bd4b"><img src="https://wakatime.com/badge/user/842d7062-8932-4da3-8562-5f3d1673bd4b.svg" alt="Total time coded since Nov 30 2024" /></a>
+<a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=rakibur557&label=Profile%20Views&color=6&pretty=true" alt="Profile Views" />
   </a>
-</p>
+</div>
+
 <br>
 <p align="center"> 
   Made with ❤️ from Bangladesh by Md. Rakibur Rahman
