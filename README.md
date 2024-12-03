@@ -139,6 +139,16 @@ An ambitious problem solver who is committed to developing skills with a passion
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibur557" alt="GitHub Streak" height="195" />
 </div>
 
+<div align="center">
+  <a href="https://github.com/rakibur557/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=rakibur557" alt="Anurag's GitHub stats">
+  </a>
+</div>
+
+
+
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakibur557&theme=radical&no-frame=false&no-bg=true&margin-w=4)
